@@ -3,18 +3,6 @@
 
 This project is a machine learning-based application that predicts house prices based on various features such as area, number of bedrooms, bathrooms, and more. The prediction model is built using TensorFlow and scikit-learn.
 
-## Table of Contents
-
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Dataset](#dataset)
-- [Project Structure](#project-structure)
-- [Training the Model](#training-the-model)
-- [Making Predictions](#making-predictions)
-- [Evaluation](#evaluation)
-- [License](#license)
 
 ## Getting Started
 
